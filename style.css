@@ -32,13 +32,9 @@ nav {
 
 .r {
     text-decoration: none;
-    border-right: 5px dashed;
+    border-right: 5px solid;
     padding-right:10px;
-    margin-left: 10px;
-}
-
-.l {
-    text-decoration: none;
+    padding-left: 10px;
 }
 
 .img {
