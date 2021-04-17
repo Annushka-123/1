@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    padding: 20px;
+    background-color: aqua;
+}
+
+h1 {
+    font-size: 20px;
+    color: rgba(43, 206, 192, 0.849);
+}
+
+footer {
+    background-color: rgba(206, 46, 255, 0.616);
+    color:rgba(18, 255, 223, 0.89)
+}
+footer p{
+    background-color: rgba(208, 106, 255, 0.89);
+}
+
+nav {
+    background-color: rgba(234, 0, 255, 0.411);
+    border:rgb(56, 90, 238) 5px outset;
+    height: 20px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.r {
+    text-decoration: none;
+    border-right: 5px dashed;
+    padding-right:10px;
+    margin-left: 10px;
+}
+
+.l {
+    text-decoration: none;
+}
+
+.img {
+    background-color: rgba(145, 242, 255, 0.932);
+    border: rgba(67, 255, 246, 0.466) solid 3px;
+    border-radius: 10%;
+}
+
+main {
+    margin: 290px;
+}
+
+h2 {
+    color: rgb(255, 166, 65);
+}
